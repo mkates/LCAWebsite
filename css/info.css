@@ -1,0 +1,24 @@
+.well {
+	text-align: left;
+	padding: 40px 20px;
+}
+.well h1 {
+	font-size: 24px;
+	font-weight: 800;
+	padding-left: 30px;
+}
+.well p {
+	font-size: 13px;
+	color: #555;
+	padding: 10px 40px 0 30px;
+}
+.information img {
+	float: right;
+	border:2px solid #ccc;
+	margin: 10px 20px 20px 20px;
+}
+.testimonial img {
+	float: left;
+	border:2px solid #ccc;
+	margin: 10px 20px 20px 30px;
+}

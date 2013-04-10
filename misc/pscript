@@ -1,0 +1,9 @@
+def p(text):
+    print text
+
+p("""Major: VI-2: Electrical Engineering and Computer Science
+When I'm not studying I like to... play basketball and do anything that is funny/entertaining
+My favorite movie is: Snatch bc Awesome cast and characters and funny, well-written plot
+The thing I'm going to miss most about fraternity: Not thinking that far ahead yet.
+I want to be remembered for: my awesomeness
+In then years you'll find me: still awesome """)

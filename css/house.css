@@ -1,0 +1,7 @@
+.centerimage {
+	text-align: center;
+	padding: 30px 0;
+}
+.centerimage img {
+	border:2px solid #ccc;
+}
